@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "10147a6dd5229a5b",
+        "id": "7025bf42f9f7f09c",
         "type": "tabs",
         "children": [
           {
-            "id": "0e5b43f3a3bf53e1",
+            "id": "08e10da3c16f6b73",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -80,8 +80,7 @@
               "title": "Sortable File Explorer"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -200,8 +199,19 @@
       "sortable-file-explorer:Sortable File Explorer": false
     }
   },
-  "active": "7fbe7cfc2d8f1400",
+  "active": "ddc7a34c68090eb4",
   "lastOpenFiles": [
+    "102-大模型相关/20260610_Obsidian-Hermes-Agent完全体.md",
+    "102-大模型相关/Obsidian + Hermes Agent 完全体.md",
+    "102-大模型相关/FunASR-阿里开源的工业级语音识别.md",
+    "● Thirdspace-dashboard初始化.md",
+    "● Obsidian模板使用说明.md",
+    "01-收件箱/待整理",
+    "01-收件箱/20260620_DeepSeek_API_KEY.md",
+    "102-大模型相关/WORKSPACE.md",
+    "102-大模型相关",
+    "05-资源/闲鱼最大资源站.md",
+    "05-资源/WORKSPACE.md",
     "Plugins/thirdspace-dashboard/node_modules/moment/src/lib/utils/zero-fill.js",
     "Plugins/thirdspace-dashboard/node_modules/moment/src/lib/utils/to-int.js",
     "Plugins/thirdspace-dashboard/node_modules/moment/src/lib/utils/some.js",
@@ -210,9 +220,6 @@
     "Plugins/thirdspace-dashboard/node_modules/moment/src/lib/utils/is-string.js",
     "Plugins/thirdspace-dashboard/node_modules/moment/src/lib/utils/keys.js",
     "Plugins/thirdspace-dashboard/node_modules/moment/src/lib/utils/is-undefined.js",
-    "Plugins/thirdspace-dashboard/node_modules/moment/src/lib/utils/is-object.js",
-    "Plugins/thirdspace-dashboard/node_modules/moment/src/lib/utils/is-object-empty.js",
-    "Plugins/thirdspace-dashboard/node_modules/moment/src/lib/utils/is-number.js",
     "Plugins/thirdspace-dashboard/node_modules/style-mod/src/README.md",
     "Plugins/thirdspace-dashboard/node_modules/@types/tern/README.md",
     "Plugins/thirdspace-dashboard/node_modules/@marijn/find-cluster-break/README.md",
@@ -229,14 +236,6 @@
     "Plugins/thirdspace-dashboard/node_modules/typescript/SECURITY.md",
     "Plugins/thirdspace-dashboard/node_modules/typescript/README.md",
     "Plugins/thirdspace-dashboard/node_modules/tslib/README.md",
-    "Plugins/thirdspace-dashboard/node_modules/obsidian/README.md",
-    "Plugins/thirdspace-dashboard/node_modules/obsidian/LICENSE.md",
-    "Plugins/thirdspace-dashboard/node_modules/style-mod/README.md",
-    "Plugins/thirdspace-dashboard/node_modules/obsidian/CHANGELOG.md",
-    "Plugins/thirdspace-dashboard/node_modules/moment/README.md",
-    "Plugins/thirdspace-dashboard/node_modules/moment/CHANGELOG.md",
-    "Plugins/thirdspace-dashboard/node_modules/crelt/README.md",
-    "Plugins/thirdspace-dashboard/node_modules/builtin-modules/readme.md",
-    "Plugins/thirdspace-dashboard/node_modules/esbuild/README.md"
+    "Plugins/thirdspace-dashboard/node_modules/obsidian/README.md"
   ]
 }
