@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "ac1a13ebe755a820",
+    "type": "split",
+    "children": [
+      {
+        "id": "10147a6dd5229a5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e5b43f3a3bf53e1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d79903d53898a1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee08d012e2e57419",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddc7a34c68090eb4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6d2d5596f9003b14",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "30e414ec2236b59f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "7fbe7cfc2d8f1400",
+            "type": "leaf",
+            "state": {
+              "type": "my-file-explorer-view",
+              "state": {},
+              "icon": "folder",
+              "title": "Sortable File Explorer"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c53bfb6aebc72ada",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b09e75fabf1b362",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b3a63691afabe9d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "75c2086ca1108122",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "f42efca17ba4ea2a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "88ed4e6a5415d25c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "97333b3b31a63c1c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "5a207ff241a948c2",
+            "type": "leaf",
+            "state": {
+              "type": "thirdspace-dashboard",
+              "state": {},
+              "icon": "layout-dashboard",
+              "title": "ThirdSpace"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 725.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "thirdspace-dashboard:ThirdSpace Dashboard": false,
+      "templater-obsidian:Templater": false,
+      "sortable-file-explorer:Sortable File Explorer": false
+    }
+  },
+  "active": "7fbe7cfc2d8f1400",
+  "lastOpenFiles": [
+    "未命名.base",
+    "01-收件箱/20260620_关联远程仓库.md",
+    "101-音视频学习/ffplay learning material.md",
+    "101-音视频学习/WORKSPACE.md",
+    "101-音视频学习/20260118_用药建议.md",
+    "101-音视频学习",
+    "100-焦虑管理 - 副本/WORKSPACE.md",
+    "100-焦虑管理 - 副本/20260118_用药建议.md",
+    "100-焦虑管理 - 副本",
+    "100-焦虑管理/20260118_用药建议.md",
+    "100-焦虑管理/WORKSPACE.md",
+    "100-焦虑管理",
+    "新建文件夹",
+    "MANUAL.md",
+    "UPDATE.md",
+    "00-系统/WORKSPACE.md",
+    "Untitled.md",
+    "02-日记/工作日志/20260620_工作日志_周六.md",
+    "● Thirdspace-dashboard初始化.md",
+    "● Obsidian模板使用说明.md",
+    "未命名.md",
+    "Templates/03 - 项目/3.7 - 进度.md",
+    "Templates/03 - 项目/3.5 - 项目_V3.md",
+    "Templates/03 - 项目/3.8 - 项目模板.md",
+    "Templates/03 - 项目/3.4 - 项目提案.md",
+    "Templates/03 - 项目/3.6 - 项目复盘模板.md",
+    "Templates/03 - 项目/3.2 - 敏捷开发周期模板.md",
+    "Templates/03 - 项目/3.2 - 行动计划.md",
+    "Templates/03 - 项目/3.3 - 项目_V2.md",
+    "Templates/03 - 项目/3.1 - 项目.md",
+    "Templates/03 - 项目",
+    "Templates"
+  ]
+}
