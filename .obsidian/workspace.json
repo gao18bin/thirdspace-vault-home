@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7025bf42f9f7f09c",
+        "id": "f9fa89dfc88fb6f4",
         "type": "tabs",
         "children": [
           {
-            "id": "08e10da3c16f6b73",
+            "id": "80ec3cdabacf5a12",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01-收件箱/20260620_DeepSeek_API_KEY.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "20260620_DeepSeek_API_KEY"
             }
           }
         ]
@@ -80,7 +84,8 @@
               "title": "Sortable File Explorer"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -199,15 +204,15 @@
       "sortable-file-explorer:Sortable File Explorer": false
     }
   },
-  "active": "ddc7a34c68090eb4",
+  "active": "80ec3cdabacf5a12",
   "lastOpenFiles": [
+    "01-收件箱/20260620_DeepSeek_API_KEY.md",
     "102-大模型相关/20260610_Obsidian-Hermes-Agent完全体.md",
     "102-大模型相关/Obsidian + Hermes Agent 完全体.md",
     "102-大模型相关/FunASR-阿里开源的工业级语音识别.md",
     "● Thirdspace-dashboard初始化.md",
     "● Obsidian模板使用说明.md",
     "01-收件箱/待整理",
-    "01-收件箱/20260620_DeepSeek_API_KEY.md",
     "102-大模型相关/WORKSPACE.md",
     "102-大模型相关",
     "05-资源/闲鱼最大资源站.md",
